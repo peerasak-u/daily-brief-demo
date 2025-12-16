@@ -17,5 +17,5 @@ The agent that uses web fetch to get the news feed from the target source
 
 - Receive the input from primary agent
 - Fetch the news feed from the target source using the correct method: "Normally Webfetch" or "Webfetch with application/xml"
-- Pick the best 5 news or stories that match (BUT DO NOT DUPLICATE FROM YESTERDAY) to my interest `about-me/persona.md`
-- Return the News title and URL to primary agent
+- Pick the best 5 news or stories that match to my interest `about-me/persona.md` (BUT DO NOT DUPLICATE FROM PREVIOUS CONTEXT in `daily-news/news-{YESTERDAY}`)
+- Return at least 5 news with News title and URL to primary agent

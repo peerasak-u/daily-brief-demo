@@ -24,6 +24,7 @@ The agent that uses web fetch to get the news content from the target source
 
 Briefing includes:
 - Headlines with dates
+- Source name and link to actual product or story
 - Summarize news with short but descriptive content
 - Why it matters to me
 - Actionable insights

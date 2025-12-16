@@ -4,7 +4,7 @@ A personalized daily news briefing system that learns what you care about and de
 
 ## What This Is
 
-This is a demo project that showcases a "second-brain" life management system using OpenCode. It automatically generates personalized daily briefings based on your interests and preferred news sources.
+This is a demo project that showcases a "second-brain" life management system using OpenCode/Claude Code. It automatically generates personalized daily briefings based on your interests and preferred news sources.
 
 **Customize It For You**: Simply modify the files in the `/about-me` directory to tailor the system to your interests and preferences!
 
